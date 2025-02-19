@@ -13,4 +13,4 @@ You can use rosetta for protein design and ligand_mpnn for sequence optimization
 The prepare page can obtain all the files for rosetta design (including .params; cleaned structure file; constraint file; pos file). Obtaining cst provides a method for automatic calculation and a method for downloading from the digital catalytic mechanism database built in this study (see below).
 The match page can be used for match design, the design page can be used for enzyme design, and the ligand mpnn page can be used for sequence design.
 The design page and mpnn page provide the function of result analysis.You can upload the designed score file or .fq file for analysis
-![image](/picture/interface.jpg)
+![image](/picture/interface.png)
