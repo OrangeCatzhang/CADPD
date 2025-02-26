@@ -1,5 +1,5 @@
-# DesignStudio
-A Pymol plug-in for Rosetta structure design and ligand MPNN sequence design
+# CADPD
+A computer-aided de novo protein design framework
 
 1. Dependency requirements
 Need to install rosetta and pyrosetta, ligand_mpnn, pymol==3.X，python==3.X
