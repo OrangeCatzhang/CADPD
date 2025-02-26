@@ -1,0 +1,38 @@
+CRYST1   45.420   70.540  140.220  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  FUD A 302     -11.198  -2.094  35.108  1.00 14.48      D    C  
+ANISOU    1  C1  FUD A 302     2121   1519   1859    -62    263   -340  D    C  
+HETATM    2  O1  FUD A 302     -10.915  -2.426  33.747  1.00 14.63      D    O  
+ANISOU    2  O1  FUD A 302     2461   1364   1731     19    -90   -411  D    O  
+HETATM    3  C2  FUD A 302     -11.634  -3.312  35.875  1.00 16.63      D    C  
+ANISOU    3  C2  FUD A 302     2666   1537   2114   -134    256   -380  D    C  
+HETATM    4  O2  FUD A 302     -11.389  -4.431  35.445  1.00 14.70      D    O  
+ANISOU    4  O2  FUD A 302     2128   1329   2128   -219    277    156  D    O  
+HETATM    5  C3  FUD A 302     -12.384  -3.105  37.167  1.00 18.53      D    C  
+ANISOU    5  C3  FUD A 302     2954   1787   2299   -166    399   -140  D    C  
+HETATM    6  O3  FUD A 302     -12.456  -4.322  37.916  1.00 18.06      D    O  
+ANISOU    6  O3  FUD A 302     3523    995   2343    -26    253   -585  D    O  
+HETATM    7  C4  FUD A 302     -11.574  -2.054  37.900  1.00 21.00      D    C  
+ANISOU    7  C4  FUD A 302     3305   2199   2473     50   -138   -330  D    C  
+HETATM    8  O4  FUD A 302     -10.357  -2.702  38.219  1.00 23.58      D    O  
+ANISOU    8  O4  FUD A 302     3896   2247   2814   -177   -660    116  D    O  
+HETATM    9  C5  FUD A 302     -12.189  -1.399  39.135  1.00 26.88      D    C  
+ANISOU    9  C5  FUD A 302     4006   3367   2838     10    -37    244  D    C  
+HETATM   10  O5  FUD A 302     -11.324  -1.591  40.253  1.00 36.78      D    O  
+ANISOU   10  O5  FUD A 302     5310   4560   4101    420   -630   1449  D    O  
+HETATM   11  C6  FUD A 302     -13.610  -1.804  39.474  1.00 26.06      D    C  
+ANISOU   11  C6  FUD A 302     3599   2948   3352   -410     24    145  D    C  
+HETATM   12  O6  FUD A 302     -14.013  -1.041  40.643  1.00 35.60      D    O  
+ANISOU   12  O6  FUD A 302     4194   3169   6164    813   -170    357  D    O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12
+CONECT   12   11
+END
